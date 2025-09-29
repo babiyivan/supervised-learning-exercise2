@@ -1,4 +1,4 @@
-# Supervised Learning Exercise 2
+# Classification with Machine Learning
 
 <p align="center">
   <img src="figs/spambase-knn.png" alt="kNN performance on Spambase" width="49%" />
